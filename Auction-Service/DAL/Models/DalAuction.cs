@@ -14,6 +14,7 @@ namespace DAL.Models
         /// </summary>
         [Key]
         public int Id { get; set; }
+
         /// <summary>
         /// Gets or sets name of the auctioin.
         /// </summary>
